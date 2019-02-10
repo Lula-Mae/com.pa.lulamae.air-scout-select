@@ -1,0 +1,20 @@
+ {
+   "context": "client",
+   "identifier": "com.pa.lulamae.air-scout-select",
+   "display_name": "Air Scout Select",
+   "description": "Selection will include the Air Scout when you hotkey to Select All Air Combat Units",
+   "author": "Lula Mae",
+   "version": "1.0",
+   "build": "112835",
+   "date": "2019-01-10",
+   "signature": "not yet implemented",
+   "forum": "https://forums.planetaryannihilation.com/threads/rel-client-air-scout-select.73295/",
+   "priority": 100,
+   "icon": "https://cdn.palobby.com/pa/units/air/air_scout/air_scout_icon_buildbar.png",
+   "category": 
+ [
+ "units",
+ "classic",
+ "titans"
+ ]
+  }
